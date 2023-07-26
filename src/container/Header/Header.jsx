@@ -9,7 +9,7 @@ const Header = () => (
       <SubHeading title="Welcome to The Chocolate Villa" />
       <h1 className="app__header-h1">Where Sweet Dreams Come True!</h1>
       <p className="p__opensans" style={{ margin: '2rem 0' }}>Whether you crave rich, velvety truffles or crave a fluffy, cocoa-infused cake, our bakery is a sanctuary of heavenly delights. Each confection is meticulously handcrafted with love and a sprinkle of magic, ensuring every bite is a moment to savor.</p>
-      <button type="button" className="custom__button">Explore Menu</button>
+      <button type="button" className="custom__button"><a href="#menu">Explore Menu</a></button>
     </div>
 
     <div className="app__wrapper_img">
