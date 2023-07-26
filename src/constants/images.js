@@ -20,6 +20,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import tcv from '../assets/tcv.png';
 import t from '../assets/t-removebg-preview.png';
+import candle from '../assets/candle.png';
 export default {
   bg,
   chef,
@@ -43,4 +44,5 @@ export default {
   sign,
   quote,
   tcv,
+  candle,
 };
