@@ -8,7 +8,7 @@ import './Footer.css';
 const Footer = () => (
   <div className="app__footer section__padding" id="login">
     {/* <FooterOverlay /> */}
-    <Newsletter />
+    {/* <Newsletter /> */}
 
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
@@ -23,9 +23,12 @@ const Footer = () => (
         <p className="p__opensans">&quot;The best way to find yourself is to lose yourself in the service of others.&quot;</p>
         <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} />
         <div className="app__footer-links_icons">
+        <a href="https://www.facebook.com/thechocolatevilla/" target="_blank" rel="noopener noreferrer">
           <FiFacebook />
-          <FiTwitter />
+        </a>
+        <a href="https://www.instagram.com/thechocolatevillaindia/?hl=en" target="_blank" rel="noopener noreferrer">
           <FiInstagram />
+        </a>
         </div>
       </div>
 
