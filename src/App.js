@@ -8,6 +8,7 @@ const App = () => (
   <div>
     <Navbar />
     <Header />
+    {/* 
     <AboutUs />
     <SpecialMenu />
     <Chef />
@@ -15,7 +16,7 @@ const App = () => (
     <Laurels />
     <Gallery />
     <FindUs />
-    <Footer />
+    <Footer /> */}
   </div>
 );
 
