@@ -21,7 +21,7 @@ const SpecialMenu = () => (
       </div>
 
       <div className="app__specialMenu-menu_img">
-        {/* <img src={images.candle} alt="menu__img" /> */}
+        <img src={images.offer} alt="menu__img" />
       </div>
 
       <div className="app__specialMenu-menu_cocktails  flex__center">
