@@ -8,8 +8,6 @@ const FindUs = () => (
       <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Find Us</h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">DC Chowk, Sector 9, Rohini, Delhi 110085</p>
-        <p className="p__opensans">and</p>
-        <p className="p__opensans">ShivNadar University</p>
         <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Opening Hours</p>
         <p className="p__opensans">Mon - Fri: 10:00 am - 10:00 pm</p>
         <p className="p__opensans">Sat - Sun: 10:00 am - 10:00 pm</p>

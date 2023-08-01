@@ -14,7 +14,6 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">DC Chowk, Sector 9, Rohini, Delhi 110085</p>
-        <p className="p__opensans">ShivNadar University</p>
         <p className="p__opensans">+919999670308</p>
       </div>
 
