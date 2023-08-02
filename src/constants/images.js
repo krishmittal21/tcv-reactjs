@@ -14,6 +14,7 @@ import tcv from '../assets/tcv.png';
 import t from '../assets/t-removebg-preview.png';
 import candle from '../assets/candle.png';
 import offer from "../assets/offer.png"
+import dogcake from "../assets/dogcake.jpg"
 export default {
   bg,
   t,
@@ -31,4 +32,5 @@ export default {
   tcv,
   candle,
   offer,
+  dogcake,
 };
