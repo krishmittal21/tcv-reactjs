@@ -35,7 +35,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{ marginTop: 15 }}>
-      <a href="https://drive.google.com/file/d/1retkhHcHscbOStSTz_aKxVeU0WeAf1Kd/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.canva.com/design/DAFe2yCv1eI/pCTxn_J5D8qLZnInVYxjFg/view?utm_content=DAFe2yCv1eI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener noreferrer">
       <button type="button" className="custom__button">View More</button>
       </a>
     </div>
